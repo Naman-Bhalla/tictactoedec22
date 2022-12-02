@@ -1,2 +1,4 @@
-package com.scaler.tictactoe.models;public enum PlayerType {
+package com.scaler.tictactoe.models;
+
+public enum PlayerType {
 }

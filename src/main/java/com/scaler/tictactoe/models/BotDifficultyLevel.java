@@ -1,2 +1,7 @@
-package com.scaler.tictactoe.models;public class BotDifficultyLevel {
+package com.scaler.tictactoe.models;
+
+public enum BotDifficultyLevel {
+    EASY,
+    MEDIUM,
+    HARD,
 }
